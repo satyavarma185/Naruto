@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Naruto/static/css/main.7fd9ac4f.css",
+    "main.js": "/Naruto/static/js/main.0564f7f8.js",
+    "static/media/pngwing.com.png": "/Naruto/static/media/pngwing.com.01df19fa4c5c714c71cb.png",
+    "static/media/naruto-37644.png": "/Naruto/static/media/naruto-37644.0ff1fc86a99121650f86.png",
+    "index.html": "/Naruto/index.html",
+    "main.7fd9ac4f.css.map": "/Naruto/static/css/main.7fd9ac4f.css.map",
+    "main.0564f7f8.js.map": "/Naruto/static/js/main.0564f7f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fd9ac4f.css",
+    "static/js/main.0564f7f8.js"
+  ]
+}
